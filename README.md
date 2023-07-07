@@ -1,2 +1,2 @@
-# ISEP-SCOMP
-Exercícios de SCOMP- ISEP (2022/2023)
+# SCOMP (2022-2023)
+Este repositório contém, na integra, a realização das PL1, PL1b, PL2, PL3, PL4, PL5 incluindo o respetivo enunciado e da US 3003 do projeto integrador relativamente à unidade curricular de **SCOMP**.
